@@ -3,9 +3,8 @@
 
 [![Repos Badge](https://badges.pufler.dev/repos/jorgehsaavedra)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/jorgehsaavedra)](https://badges.pufler.dev)
 
-## About me 
-#### Glad to see you here!
-Experience in design and implementation of management projects and technological platforms for automation and process control, data analysis and advanced analytics using Microsoft technologies, R and Python language, with studies and certifications in data processing and information technologies
+## Glad to see you here! 
+I'm Mechanical Engineer with experience in design and implementation of management projects and technological platforms for automation and process control, data analysis and advanced analytics using Microsoft technologies, R and Python language, with studies and certifications in data processing and information technologies
 
 Manager of Business Intelligence in companies of massive transport system as more than 1200 buses in operation, with more than 15 years of experience in public transport and Bus Rapid Transit. Business intelligence consultant for companies for the financial sector of the City of Panama.
 
