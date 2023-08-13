@@ -4,11 +4,15 @@
 [![Years Badge](https://badges.pufler.dev/years/jorgehsaavedra)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/jorgehsaavedra)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/jorgehsaavedra)](https://badges.pufler.dev)
 
 ## Glad to see you here! 
-I'm Mechanical Engineer with experience in design and implementation of management projects and technological platforms for automation and process control, data analysis and advanced analytics using Microsoft technologies, R and Python language, with studies and certifications in data processing and information technologies
+📊 Specialist in Data Analysis and Advanced Analytics
 
-Manager of Business Intelligence in companies of massive transport system as more than 1200 buses in operation, with more than 15 years of experience in public transport and Bus Rapid Transit. Business intelligence consultant for companies for the financial sector of the City of Panama.
+With deep expertise in data analysis using Microsoft technologies, R, and Python, I have dedicated myself to transforming raw data into actionable insights that drive strategic decision-making.
 
-With more than 15 years of experience in the management of maintenance processes in companies of massive passenger transportation systems, leading management processes in the area of operations, logistics and supply.
+🔍 I develop and implement data-driven solutions that not only inform but also revolutionize the way companies operate and grow.
+
+📈 Leadership in Business Intelligence: As a Business Intelligence Manager, I have led teams to uncover hidden opportunities in large datasets, optimizing operations and making a real impact on the bottom line.
+
+My passion lies in discovering the stories behind the numbers and using those insights to craft innovative strategies. If you're looking for an expert who can turn data into action, let's connect.
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
