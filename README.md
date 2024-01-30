@@ -22,8 +22,9 @@ My passion lies in discovering the stories behind the numbers and using those in
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgehsaavedra&hide_border=true" align="left" style="width: 100%" />
 </td></tr></table>   
 
-## Github Activity  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jorgehsaavedra&bg_color=ffffff&color=708090&line=4078c0&point=4078c0&area=true&hide_border=false)  
+
+## Github Activity 
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jorgehsaavedra&theme=github-compact)](https://github.com/jorgehsaavedra/github-readme-activity-graph)
 
 ------------
 <div align="center">
