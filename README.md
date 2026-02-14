@@ -1,38 +1,53 @@
-## Hi, I'm Jorge <img src="https://github.com/jorgehsaavedra/jorgehsaavedra/blob/main/assets/Hi.gif" width="29">
-<img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/><img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/><img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/><img alt="SqlServer" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/><img alt="VsCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><img alt="Git" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 
-[![Years Badge](https://badges.pufler.dev/years/jorgehsaavedra)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/jorgehsaavedra)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/jorgehsaavedra)](https://badges.pufler.dev)
-
-## Glad to see you here! 
-📊 Specialist in Data Analysis and Advanced Analytics
-
-With deep expertise in data analysis using Microsoft technologies, R, and Python, I have dedicated myself to transforming raw data into actionable insights that drive strategic decision-making.
-
-🔍 I develop and implement data-driven solutions that not only inform but also revolutionize the way companies operate and grow.
-
-📈 Leadership in Business Intelligence: As a Business Intelligence Manager, I have led teams to uncover hidden opportunities in large datasets, optimizing operations and making a real impact on the bottom line.
-
-My passion lies in discovering the stories behind the numbers and using those insights to craft innovative strategies. If you're looking for an expert who can turn data into action, let's connect.
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jorgehsaavedra&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-</td><td valign="top" width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgehsaavedra&hide_border=true" align="left" style="width: 100%" />
-</td></tr></table>   
-
-
-## Github Activity 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jorgehsaavedra&theme=github-compact)](https://github.com/jorgehsaavedra/github-readme-activity-graph)
-
-------------
 <div align="center">
-<h5>Where to find me</h5>
-<a href="https://www.linkedin.com/in/jorgesaavedragomez/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=Jorge%20Saavedra&fontSize=60&fontColor=ffffff&fontAlignY=45&desc=Senior%20Manager%20-%20AI%20and%20Electric%20Fleets&descAlignY=70&descSize=20&animation=fadeIn" width="100%"/>
+</div>
+
+<br/>
+
+## 🚀 Redefining Transport Operations with AI
+
+**17+ Years of Innovation | Electric Mobility | Smart Maintenance**
+
+I am a **Senior Operations & Maintenance Executive** bridging the gap between heavy industrial infrastructure and **Artificial Intelligence**.
+
+With over 17 years of leadership in the public transport sector, I specialize in adapting technology to create real business value. My expertise lies in designing intelligent ecosystems that optimize **Electric Fleets** and critical assets, moving organizations from reactive models to **predictive strategies**. I leverage **AI agents** and **Machine Learning** to automate complex decision-making processes and drive operational excellence.
+
+As a former **Business Intelligence Manager** and **Senior Maintenance Manager**, I understand the hardware as well as the code. I build solutions that:
+*   **🤖 Predict Failures**: Using AI models to anticipate breakdowns before they impact service.
+*   **🔋 Optimize Energy**: Maximizing battery lifecycles and range for large-scale electric fleets.
+*   **💡 Automate Strategy**: Transforming raw telemetry into actionable business intelligence.
+
+---
+
+## 🏗 Operational Stack & AI
+
+<div align="center">
+  
+| **Executive Strategy** | **AI & Innovation** | **Asset Management** |
+|:---:|:---:|:---:|
+| Electric Fleet Transition <br/> CAPEX/OPEX Optimization <br/> Data-Driven Culture | Predictive Maintenance (PdM) <br/> AI Agents for Operations <br/> Automated Workflows | IoT & Telemetry Integration <br/> Reliability Centered Maintenance (RCM) <br/> Enterprise Architecture |
+
+<br/>
+
+<!-- Modern Tech Stack Icons -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,azure,docker,git,postgres,linux&theme=dark" />
 </a>
-<a href="https://twitter.com/jhsaavedra" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-</div>  
+
+</div>
+
+---
+
+<div align="center">
+  <h3>🤝 Let's Shape the Future of Transport</h3>
+  <p>Available for consulting on Fleet Electrification, AI Implementation, and Digital Transformation.</p>
+  
+  <a href="https://www.linkedin.com/in/jorgesaavedragomez/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/jhsaavedra" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</div>
+Í
