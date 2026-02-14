@@ -1,6 +1,8 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=Jorge%20Saavedra&fontSize=60&fontColor=ffffff&fontAlignY=45&desc=Senior%20Manager%20-%20AI%20and%20Electric%20Fleets&descAlignY=70&descSize=20&animation=fadeIn" width="100%"/>
+  <a href="https://github.com/jorgehsaavedra">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=Jorge%20Saavedra&fontSize=60&fontColor=ffffff&fontAlignY=45&desc=Senior%20Manager%20-%20AI%20and%20Electric%20Fleets&descAlignY=70&descSize=20&animation=fadeIn" width="100%"/>
+  </a>
 </div>
 
 <br/>
@@ -50,4 +52,3 @@ As a former **Business Intelligence Manager** and **Senior Maintenance Manager**
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </div>
-Í
