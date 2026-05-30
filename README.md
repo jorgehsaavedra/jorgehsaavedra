@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="https://github.com/jorgehsaavedra">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=Jorge%20Saavedra&fontSize=60&fontColor=ffffff&fontAlignY=45&desc=Senior%20Manager%20-%20AI%20and%20Electric%20Fleets&descAlignY=70&descSize=20&animation=fadeIn" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=Jorge%20Saavedra&fontSize=60&fontColor=ffffff&fontAlignY=45&desc=Maintenance%20AI%20and%20Electric%20Fleets&descAlignY=70&descSize=20&animation=fadeIn" width="100%"/>
   </a>
 </div>
 
